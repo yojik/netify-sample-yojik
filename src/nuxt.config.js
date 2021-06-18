@@ -39,7 +39,7 @@ export default {
   },
 
   generate: {
-    dir: "../dist"
+    dir: "../pages"
   }
 
 }
