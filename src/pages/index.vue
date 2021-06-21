@@ -22,8 +22,9 @@
         >
           GitHub
         </a>
-        <p>プルリクによる変更</p>
-        <p>さらなる変更</p>
+        <div>
+         <p>プルリクによる変更</p>
+         <p>netify->Netlifyだった。。</p>
       </div>
     </div>
   </div>
